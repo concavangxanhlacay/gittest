@@ -15,3 +15,6 @@ access_token
 access_key
 
 secret_key
+
+
+bucket_password
